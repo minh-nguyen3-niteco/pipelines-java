@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/minhnguyen3/minhnguyen3/_apis/build/status/minh-nguyen3-niteco.pipelines-java?branchName=master)](https://dev.azure.com/minhnguyen3/minhnguyen3/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
